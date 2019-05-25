@@ -14,9 +14,7 @@ This project has two objevctives:
 
 Trough this book we will try to describe what is "I", but in principle, it can be defined as a virtual intelligence which use our brains, our computers and our telecomunication network to store and process information and knowledge. It is an independent entity very likely pushed by similar rules of darwinian evolution which was born in living organism and seems to be traying to move ahead.
 
+
 ![Diagram](https://eduardopenag.github.io/I4Intelligence-I_Overview.svg)
 
-<p align="center">
-  <img width="460" height="300" src=https://eduardopenag.github.io/I4Intelligence-I_Overview.svg"/460/300">
-</p>
 

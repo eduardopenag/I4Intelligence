@@ -13,6 +13,18 @@
 
 "There is no fundamental difference between a living organism and lifeless matter." [Alexander Oparin](https://en.wikipedia.org/wiki/Alexander_Oparin)
 
+**Misc.**
+
+Self-Replication For Designing Complex Agents
+
+https://pages.lip6.fr/Olivier.Marin/Publis/mags2010.pdf
+
+https://en.wikipedia.org/wiki/DNA_computing
+
+https://en.wikipedia.org/wiki/Chemical_computer
+
+https://en.wikipedia.org/wiki/Synthetic_biology
+
 **References:**
 
 Marcus Hutter:

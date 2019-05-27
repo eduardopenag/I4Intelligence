@@ -1,5 +1,7 @@
 
 
+[Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)
+
 [[File:Richard dawkins lecture.jpg|175 px|left|alt=|thumb|[[Richard Dawkins]] coined the word ''meme'' in his 1976 book ''[[The Selfish Gene]]''.]]
 
 

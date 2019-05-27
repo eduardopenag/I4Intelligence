@@ -11,6 +11,7 @@
 
 "**No Intelligence without Goals.** Most, if not all known facets of intelligence can be formulated as goal driven or, more generally, as maximizing some utility function. It is, therefore, sufficient to study goal driven AI. E.g. the (biological) goal of animals and humans is to survive and spread. The goal of AI systems should be to be useful to humans. The problem is that, except for special cases, we know neither the utility function, nor the environment in which the system will operate, in advance. 
 
+"There is no fundamental difference between a living organism and lifeless matter." [Alexander Oparin](https://en.wikipedia.org/wiki/Alexander_Oparin)
 
 **References:**
 
